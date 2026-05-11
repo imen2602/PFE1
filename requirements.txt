@@ -1,0 +1,9 @@
+flask
+pymupdf
+sentence-transformers
+faiss-cpu
+spacy
+langdetect
+pandas
+scikit-learn
+numpy
